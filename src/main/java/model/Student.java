@@ -8,6 +8,8 @@ public class Student {
     String department;
     int enrollmentNumber;
 
+    String address;
+
     //Konstruktor
     public Student(String alice, String s) {
 
